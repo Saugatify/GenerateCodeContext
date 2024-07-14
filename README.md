@@ -1,1 +1,10 @@
-```node generateCodeContext.js```
+
+    
+  ```sh
+     get the node
+    ```
+  
+  
+  ```sh
+    node generateCodeContext.js
+    ```
